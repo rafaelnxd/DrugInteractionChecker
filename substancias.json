@@ -1,0 +1,24 @@
+{
+    "Paracetamol": {
+    "descricao_file": "descriptions/paracetamol.txt",
+    "interacoes_file": "interacoes/paracetamol_interacoes.json"
+    },
+    "Ibuprofeno": {
+    "descricao_file": "descriptions/ibuprofeno.txt",
+    "interacoes_file":"interacoes/ibuprofeno_interacoes.json"
+    },
+    "Amoxicilina": {
+    "descricao_file": "descriptions/amoxicilina.txt",
+    "interacoes_file": "interacoes/amoxicilina_interacoes.json"
+    },
+    "Álcool": {
+    "descricao_file": "descriptions/alcool.txt",
+    "interacoes_file": "interacoes/alcool_interacoes.json"
+
+    },
+    "Codeína": {
+    "descricao_file": "descriptions/codeina.txt",
+    "interacoes_file": "interacoes/codeina_interacoes.json"
+
+    }
+    }

@@ -1,0 +1,13 @@
+{
+    "interacoes": [
+      {
+        "substancia": "Ibuprofeno",
+        "detalhes": "Sobrecarga do fígado"
+      },
+      {
+        "substancia": "Amoxicilina",
+        "detalhes": "Morte"
+      }
+    
+    ]
+  }

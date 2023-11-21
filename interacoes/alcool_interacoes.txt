@@ -1,0 +1,2 @@
+substancia: Paracetamol
+Interacao: Potencial interação gastrointestinal

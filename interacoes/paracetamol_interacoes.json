@@ -1,0 +1,12 @@
+{
+    "interacoes": [
+      {
+        "substancia": "Ibuprofeno",
+        "detalhes": "Potencial interação gastrointestinal"
+      },
+      {
+        "substancia": "Amoxicilina",
+        "detalhes": "Mal estár gastrointestinal"
+      }
+    ]
+}

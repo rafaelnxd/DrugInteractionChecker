@@ -1,0 +1,5 @@
+substancia: Ibuprofeno
+Interacao: Potencial interação gastrointestinal
+
+substancia: Amoxicilina
+Interacao: Nenhuma interação conhecida
